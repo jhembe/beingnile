@@ -6,7 +6,9 @@
 
 
 # 💫 About Me:
-I enjoy playing chess and making music when I'm not building something.<br>Currently working on a rewrite of printf, a function in the C's stdio standard library.<br>I'm currently learning TypeScript and Advanced SQL concepts for backend developers.  
+I enjoy playing chess and making music when I'm not building something.<br>Lately, I've been working on a rewrite of printf, a function in the C's stdio standard library.<br>
+I'm also working on a streamlit dashboard analysing motor vehicle accidents in New York City.  
+I'm currently learning TypeScript and Advanced SQL concepts for backend developers.  
 Welcome aboard!!!
 
 
