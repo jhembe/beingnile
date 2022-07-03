@@ -1,10 +1,11 @@
+# Hi, I'm Nile👋
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="100"/>
 </div>
 
 
 # 💫 About Me:
-Hi, I'm Nile, a Data Scientist and a Backend Developer.  
 I enjoy playing chess and making music when I'm not building something.<br>Currently working on a rewrite of printf, a function in the C's stdio standard library.<br>I'm currently learning TypeScript and Advanced SQL concepts for backend developers.  
 Welcome aboard!!!
 
