@@ -4,7 +4,8 @@
 
 
 # 💫 About Me:
-Hi, I'm Nile<br>A Data Scientist and a backend developer. I enjoy playing chess and making music when I'm not building something.<br>Currently working on a rewrite of printf, a function in the C's stdio standard library.<br>I'm currently learning TypeScript and Advanced SQL concepts for backend developers.  
+Hi, I'm Nile, a Data Scientist and a Backend Developer.  
+I enjoy playing chess and making music when I'm not building something.<br>Currently working on a rewrite of printf, a function in the C's stdio standard library.<br>I'm currently learning TypeScript and Advanced SQL concepts for backend developers.  
 Welcome aboard!!!
 
 
